@@ -2,11 +2,11 @@
 
 Dashboard Link: https://app.powerbi.com/links/iZ8YEAWte0?ctid=66272e85-4cc3-4387-9885-1944973bb2e5&pbi_source=linkShare
 
-##1. Overview
+##Overview
 
 This Power BI dashboard provides a comprehensive view of the key metrics and insights for an electronics retail store. It visualizes the performance of various product categories, sales trends, customer demographics, and profitability. The dashboard is designed to help stakeholders make data-driven decisions to optimize sales strategies, inventory management, and customer engagement.
 
-###2. Problem Statement
+###Problem Statement
 
 The electronics store faced challenges in tracking sales trends across various product categories, identifying underperforming regions, and understanding customer purchasing behaviors. Additionally, there was a need for better visibility into inventory levels and profitability to streamline operations and increase efficiency.
 
